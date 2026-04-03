@@ -1,0 +1,9 @@
+App Research Report
+
+We did some research on the app. We talked to some people and asked them what they thought. Most people seemed to like it but some had issues. The interface was generally considered good by users. People found it easy to use. The onboarding was well received.
+
+We also found that users had some problems with loading times. A few users mentioned the notifications were annoying. The search function was mentioned as needing improvement.
+
+Overall the research shows the app is doing well and users are mostly happy. There are some areas to improve. The team should focus on performance and notifications going forward.
+
+We recommend improving the app based on this feedback.

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "hq-01",
+    "description": "High quality: explicit saturation, reflexivity, thematic analysis, member checking, triangulation",
+    "expected_level": "high",
+    "text": "Understanding Trust Formation in AI-Assisted Financial Decision Making: A Qualitative Study\n\nAbstract\nThis paper reports findings from a qualitative study examining how users develop trust in AI-powered financial planning tools. Using thematic analysis guided by Braun and Clarke (2006), we conducted in-depth semi-structured interviews with 18 participants recruited through purposive sampling. Data collection continued until thematic saturation was reached \u2014 no new themes emerged after the fourteenth interview, confirming data sufficiency. A saturation point was determined through continuous comparison of incoming data against existing codes.\n\nMethodology and Reflexivity\nThe first researcher (lead author) brings a background in fintech product design, which we acknowledge as a potential source of confirmation bias toward positive user experiences. A detailed reflexivity statement was maintained throughout the study. My positionality as a former fintech product manager meant I carried strong preconceptions about ease-of-use being a primary driver of trust \u2014 these were bracketed explicitly in the analytical process. The researcher's role shifted from observer to interpreter, and we kept a reflexivity journal to document emerging assumptions.\n\nTo address researcher influence, all interview transcripts were independently coded by two researchers. Inter-rater reliability was assessed using Cohen's Kappa, achieving a score of 0.81, indicating strong agreement. Triangulation was achieved through multiple data sources: interview transcripts, a follow-up survey (n=112), and secondary analysis of app interaction logs. Member checking was conducted with eight participants who reviewed and confirmed the accuracy of their attributed themes.\n\nData Collection and Analysis\nParticipants were recruited from three cities using maximum variation sampling to ensure demographic diversity. Semi-structured interviews averaged 52 minutes and were recorded and transcribed verbatim. We employed thematic analysis as our primary analytical approach, following the six-phase process: familiarisation, generating initial codes, searching for themes, reviewing themes, defining and naming themes, and producing the report. An audit trail of analytical decisions was maintained throughout, documenting how codes were merged, split, or retired.\n\nFindings\nThree primary themes emerged from the data.\n\nTheme 1: Transparency as a Trust Prerequisite\nParticipants consistently described needing to understand how recommendations were generated before trusting them. As one participant noted: \"I need to know why it's telling me to do something. If I can't see the reasoning, I just assume it's wrong.\" Another participant described this further: \"It's not about being right all the time \u2014 it's about being honest with me when it doesn't know.\"\n\nTheme 2: Incremental Trust Through Verifiable Outcomes\nTrust was not formed in a single interaction but developed over repeated, verifiable experiences. One participant explained: \"The first time it recommended something and I checked and it was correct, that was the turning point for me.\" A second participant described a similar pattern: \"I started trusting it after three months because everything it predicted was more or less right.\"\n\nTheme 3: Social Proof and Peer Validation\nUsers frequently referenced friends or colleagues as trust validators. As one participant explained: \"My colleague recommended it and said it worked for her, so I gave it a chance.\" Conversely, a participant described distrust: \"I heard people saying it made bad recommendations, so I was already skeptical before I even tried it.\"\n\nNegative Case Analysis\nTo strengthen credibility, we actively sought disconfirming evidence. Two participants expressed unconditional trust regardless of transparency, representing a negative case that challenged our initial framework. These cases were incorporated into a refined model accounting for dispositional trust tendencies.\n\nLimitations and Transferability\nThis study has several important limitations. The sample was drawn from urban professionals aged 25\u201345 with above-average digital literacy, which limits transferability to older or less digitally experienced populations. Context-specific factors \u2014 including the regulatory environment in the UK \u2014 may reduce applicability in other jurisdictions. The qualitative design prevents statistical generalisation; findings are best understood as context-rich insights for informing product design rather than population-level claims. Future research should replicate these findings with broader demographic samples and in different national contexts.\n\nConclusion\nThis study contributes rich description of trust formation processes in AI-assisted financial tools, with implications for transparent interface design. The findings were validated through member checking, triangulation across multiple data sources, and systematic negative case analysis, supporting the credibility and trustworthiness of the reported themes.\n",
+    "expected_ranges": {
+      "saturation": [
+        40,
+        100
+      ],
+      "bias_awareness": [
+        40,
+        100
+      ],
+      "evidence_linkage": [
+        30,
+        100
+      ],
+      "triangulation": [
+        50,
+        100
+      ],
+      "reflexivity": [
+        50,
+        100
+      ],
+      "transferability": [
+        40,
+        100
+      ],
+      "credibility": [
+        40,
+        100
+      ],
+      "rigor_of_analysis": [
+        40,
+        100
+      ]
+    }
+  },
+  {
+    "id": "lq-01",
+    "description": "Low quality: vague, no methodology, no quotes, no reflexivity",
+    "expected_level": "low",
+    "text": "App Research Report\n\nWe did some research on the app. We talked to some people and asked them what they thought. Most people seemed to like it but some had issues. The interface was generally considered good by users. People found it easy to use. The onboarding was well received.\n\nWe also found that users had some problems with loading times. A few users mentioned the notifications were annoying. The search function was mentioned as needing improvement.\n\nOverall the research shows the app is doing well and users are mostly happy. There are some areas to improve. The team should focus on performance and notifications going forward.\n\nWe recommend improving the app based on this feedback.\n",
+    "expected_ranges": {
+      "saturation": [
+        0,
+        35
+      ],
+      "bias_awareness": [
+        0,
+        35
+      ],
+      "evidence_linkage": [
+        0,
+        40
+      ],
+      "triangulation": [
+        0,
+        35
+      ],
+      "reflexivity": [
+        0,
+        25
+      ],
+      "transferability": [
+        0,
+        35
+      ],
+      "credibility": [
+        0,
+        25
+      ],
+      "rigor_of_analysis": [
+        0,
+        35
+      ]
+    }
+  },
+  {
+    "id": "mq-01",
+    "description": "Medium quality: some method and limitations but no reflexivity or member checking",
+    "expected_level": "medium",
+    "text": "Study on Mobile App Usability\n\nWe conducted semi-structured interviews with 12 participants to understand usability issues with the mobile banking application. Participants were recruited via convenience sampling from our existing customer base.\n\nThematic analysis was applied to the interview transcripts. Three main themes were identified through open coding and axial coding. The analytical process was iterative, moving between data and emerging codes.\n\nTheme 1: Navigation Confusion\nSeveral participants described difficulty locating the transfer function. Users struggled to understand the information architecture of the app.\n\nTheme 2: Trust in Security\nParticipants expressed concern about authentication processes. The biometric login was seen positively by most users.\n\nTheme 3: Notification Overload\nParticipants found the frequency of push notifications disruptive. Many had disabled notifications entirely.\n\nLimitations: This study used a convenience sample of existing customers, which may introduce selection bias. Findings may not generalise to non-customers or less digitally engaged users. The sample size of 12 was considered adequate for the scope of this exploratory study.",
+    "expected_ranges": {
+      "saturation": [
+        0,
+        60
+      ],
+      "rigor_of_analysis": [
+        30,
+        100
+      ],
+      "transferability": [
+        30,
+        100
+      ]
+    }
+  },
+  {
+    "id": "ev-rich-01",
+    "description": "Evidence-rich but no named methodology",
+    "expected_level": "low",
+    "text": "User Interviews: Key Findings\n\nWe spoke with participants about their experience. As one participant noted: \"The app crashes every time I try to pay a bill, it is really frustrating.\" Another participant explained: \"I have been using it for six months and the performance has gotten worse over time.\" A third user said: \"The interface is confusing, I never know where to find things.\"\n\nParticipants also described positive experiences. One user stated: \"The savings feature is excellent, it helped me save more than I expected.\" Another participant commented: \"Customer support was very responsive when I had an issue.\"\n\nIn summary users have mixed feelings. The main problems are performance and navigation.",
+    "expected_ranges": {
+      "evidence_linkage": [
+        40,
+        100
+      ],
+      "rigor_of_analysis": [
+        0,
+        30
+      ],
+      "reflexivity": [
+        0,
+        20
+      ]
+    }
+  },
+  {
+    "id": "method-heavy-01",
+    "description": "Strong methodology statement but minimal evidence",
+    "expected_level": "medium",
+    "text": "Methodology\n\nThis study employed interpretative phenomenological analysis (IPA) as its core analytical framework. Following the principles of IPA (Smith et al., 2009), we conducted in-depth interviews with eight participants selected using purposive sampling. Data saturation was reached after seven interviews, with the eighth confirming thematic saturation.\n\nReflexivity was maintained throughout the analytical process. The researcher kept a reflexivity journal documenting assumptions and potential biases. The researcher's background as a UX practitioner was acknowledged as a potential source of confirmation bias toward design solutions.\n\nTriangulation was achieved through peer debriefing with a colleague not involved in the study, who independently reviewed a sample of coded transcripts. An audit trail of analytical decisions was maintained and is available for inspection.\n\nMember checking was conducted with five participants who confirmed the accuracy of their attributed themes. Negative case analysis was performed to identify and incorporate disconfirming instances.\n\nFindings are context-specific and should not be generalised beyond the studied population. The study context \u2014 a mid-sized UK fintech startup \u2014 limits transferability to large enterprise settings or markets with different regulatory frameworks.\n\nFindings: Participants generally described positive experiences. There were some challenges with the onboarding process. Navigation received mixed feedback.",
+    "expected_ranges": {
+      "saturation": [
+        40,
+        100
+      ],
+      "reflexivity": [
+        50,
+        100
+      ],
+      "credibility": [
+        50,
+        100
+      ],
+      "rigor_of_analysis": [
+        50,
+        100
+      ],
+      "evidence_linkage": [
+        0,
+        40
+      ]
+    }
+  }
+]

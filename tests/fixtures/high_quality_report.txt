@@ -1,0 +1,33 @@
+Understanding Trust Formation in AI-Assisted Financial Decision Making: A Qualitative Study
+
+Abstract
+This paper reports findings from a qualitative study examining how users develop trust in AI-powered financial planning tools. Using thematic analysis guided by Braun and Clarke (2006), we conducted in-depth semi-structured interviews with 18 participants recruited through purposive sampling. Data collection continued until thematic saturation was reached — no new themes emerged after the fourteenth interview, confirming data sufficiency. A saturation point was determined through continuous comparison of incoming data against existing codes.
+
+Methodology and Reflexivity
+The first researcher (lead author) brings a background in fintech product design, which we acknowledge as a potential source of confirmation bias toward positive user experiences. A detailed reflexivity statement was maintained throughout the study. My positionality as a former fintech product manager meant I carried strong preconceptions about ease-of-use being a primary driver of trust — these were bracketed explicitly in the analytical process. The researcher's role shifted from observer to interpreter, and we kept a reflexivity journal to document emerging assumptions.
+
+To address researcher influence, all interview transcripts were independently coded by two researchers. Inter-rater reliability was assessed using Cohen's Kappa, achieving a score of 0.81, indicating strong agreement. Triangulation was achieved through multiple data sources: interview transcripts, a follow-up survey (n=112), and secondary analysis of app interaction logs. Member checking was conducted with eight participants who reviewed and confirmed the accuracy of their attributed themes.
+
+Data Collection and Analysis
+Participants were recruited from three cities using maximum variation sampling to ensure demographic diversity. Semi-structured interviews averaged 52 minutes and were recorded and transcribed verbatim. We employed thematic analysis as our primary analytical approach, following the six-phase process: familiarisation, generating initial codes, searching for themes, reviewing themes, defining and naming themes, and producing the report. An audit trail of analytical decisions was maintained throughout, documenting how codes were merged, split, or retired.
+
+Findings
+Three primary themes emerged from the data.
+
+Theme 1: Transparency as a Trust Prerequisite
+Participants consistently described needing to understand how recommendations were generated before trusting them. As one participant noted: "I need to know why it's telling me to do something. If I can't see the reasoning, I just assume it's wrong." Another participant described this further: "It's not about being right all the time — it's about being honest with me when it doesn't know."
+
+Theme 2: Incremental Trust Through Verifiable Outcomes
+Trust was not formed in a single interaction but developed over repeated, verifiable experiences. One participant explained: "The first time it recommended something and I checked and it was correct, that was the turning point for me." A second participant described a similar pattern: "I started trusting it after three months because everything it predicted was more or less right."
+
+Theme 3: Social Proof and Peer Validation
+Users frequently referenced friends or colleagues as trust validators. As one participant explained: "My colleague recommended it and said it worked for her, so I gave it a chance." Conversely, a participant described distrust: "I heard people saying it made bad recommendations, so I was already skeptical before I even tried it."
+
+Negative Case Analysis
+To strengthen credibility, we actively sought disconfirming evidence. Two participants expressed unconditional trust regardless of transparency, representing a negative case that challenged our initial framework. These cases were incorporated into a refined model accounting for dispositional trust tendencies.
+
+Limitations and Transferability
+This study has several important limitations. The sample was drawn from urban professionals aged 25–45 with above-average digital literacy, which limits transferability to older or less digitally experienced populations. Context-specific factors — including the regulatory environment in the UK — may reduce applicability in other jurisdictions. The qualitative design prevents statistical generalisation; findings are best understood as context-rich insights for informing product design rather than population-level claims. Future research should replicate these findings with broader demographic samples and in different national contexts.
+
+Conclusion
+This study contributes rich description of trust formation processes in AI-assisted financial tools, with implications for transparent interface design. The findings were validated through member checking, triangulation across multiple data sources, and systematic negative case analysis, supporting the credibility and trustworthiness of the reported themes.
