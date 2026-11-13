@@ -111,7 +111,7 @@ def _dispatch(prompt: str, backend: str, model: Optional[str]) -> Optional[dict]
         if backend == "anthropic":
             return _anthropic(prompt, model or "claude-haiku-4-5-20251001")
         if backend == "gemini":
-            return _gemini(prompt, model or "gemini-3.1-pro-preview")
+            return _gemini(prompt, model or "gemini-4-argon")
         warnings.warn(f"Unknown LLM backend: {backend!r}")
     except Exception as exc:  # pragma: no cover
         warnings.warn(f"LLM enrichment failed ({backend}): {exc}")
